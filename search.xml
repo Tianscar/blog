@@ -2,11 +2,14 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2022/05/13/hello-world/</url>
-    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架搭建。</p>
+    <url>/2022/05/12/hello-world/</url>
+    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
 ]]></content>
       <categories>
         <category>杂文</category>
       </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
   </entry>
 </search>
