@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/05/13/hello-world/</url>
+    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架搭建。</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+  </entry>
+</search>
