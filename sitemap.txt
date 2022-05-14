@@ -1,4 +1,4 @@
-https://blog.tianscar.com/2022/05/12/about/
+https://blog.tianscar.com/about/
 https://blog.tianscar.com/categories/index.html
 https://blog.tianscar.com/tags/index.html
 https://blog.tianscar.com/2022/05/12/hello-world/
