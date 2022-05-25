@@ -2,7 +2,6 @@
 title: Hello World
 categories: 杂文
 date: 2022-05-12 20:17:45
-update: 2022-05-13 17:35:58
 tags: Hello World
 ---
 

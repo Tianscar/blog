@@ -5,11 +5,11 @@
 # Site
 title: 碳酸天剑的博客
 subtitle: '#include "tianscar/blog.h"'
-description: '追梦人不是空想家'
+description: '人的梦想，是不会结束的！'
 keywords: chinese, blog
-author: 碳酸天剑
+author: Tianscar
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -103,6 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Tianscar/tianscar.github.io.git
+  repo: git@github.com:Tianscar/blog.git
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
