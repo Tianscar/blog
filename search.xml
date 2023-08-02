@@ -25,18 +25,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客第四次重启</title>
-    <url>/2023/07/24/4th-reload-the-blog/</url>
-    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
-]]></content>
-      <categories>
-        <category>杂文</category>
-      </categories>
-      <tags>
-        <tag>Hello World</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于碳酸天剑</title>
     <url>//about/</url>
     <content><![CDATA[<h2 id="一句话总结"><a href="#一句话总结" class="headerlink" title="一句话总结"></a>一句话总结</h2><p>碳酸天剑是一个十足的蠢货，自称会十多门编程语言，但每次写业务代码都在摆烂。</p>
@@ -52,6 +40,18 @@
       <tags>
         <tag>碳酸天剑</tag>
         <tag>碳酸笑话</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客第四次重启</title>
+    <url>/2023/07/24/4th-reload-the-blog/</url>
+    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
       </tags>
   </entry>
   <entry>
