@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Allow: /2022/
+Allow: /2023/
+
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://blog.tianscar.com/sitemap.xml
+Sitemap: https://blog.tianscar.com/sitemap.txt

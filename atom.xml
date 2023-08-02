@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>碳酸天剑的博客</title>
+  
+  <subtitle>#include &quot;tianscar/blog.h&quot;</subtitle>
+  <link href="https://blog.tianscar.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.tianscar.com/"/>
+  <updated>2023-08-02T13:54:10.048Z</updated>
+  <id>https://blog.tianscar.com/</id>
+  
+  <author>
+    <name>Karstian Lee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>唯心与唯物</title>
+    <link href="https://blog.tianscar.com/2023/07/29/idealism-and-materialism/"/>
+    <id>https://blog.tianscar.com/2023/07/29/idealism-and-materialism/</id>
+    <published>2023-07-29T07:05:32.000Z</published>
+    <updated>2023-08-02T13:54:10.048Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;争论&quot;&gt;&lt;a href=&quot;#争论&quot; class=&quot;headerlink&quot; title=&quot;争论&quot;&gt;&lt;/a&gt;争论&lt;/h2&gt;&lt;p&gt;唯心与唯物的争论，时至今日都没有结束。&lt;br&gt;我当然不可能自以为是到认为自己能结束这个争论，但我要给出自己的看法。&lt;/p&gt;
+&lt;h3 id=&quot;</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="胡言乱语" scheme="https://blog.tianscar.com/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客第四次重启</title>
+    <link href="https://blog.tianscar.com/2023/07/24/4th-reload-the-blog/"/>
+    <id>https://blog.tianscar.com/2023/07/24/4th-reload-the-blog/</id>
+    <published>2023-07-24T12:16:27.000Z</published>
+    <updated>2023-07-24T12:16:27.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;太阳升起，我已归来&lt;br&gt;更换版权许可为 &lt;a href=&quot;/LICENSE&quot;&gt;CC-BY-4.0&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天剑战国赋</title>
+    <link href="https://blog.tianscar.com/2023/06/03/tiansword-zhanguo-fu/"/>
+    <id>https://blog.tianscar.com/2023/06/03/tiansword-zhanguo-fu/</id>
+    <published>2023-06-03T16:00:00.000Z</published>
+    <updated>2023-06-03T16:00:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;春秋一梦，二千二百；&lt;br&gt;梦醒时分，礼崩乐坏。&lt;br&gt;日有所思，夜有所梦，&lt;br&gt;忙有所欲，闲有所感。&lt;br&gt;苦痛缠身，作文勉之：&lt;/p&gt;
+&lt;p&gt;何所见者？扪心自问：&lt;br&gt;何以国计？庙堂倾毁。&lt;br&gt;何以民生？五术以驭。&lt;br&gt;何以修文？楼台摧塌。&lt;br&gt;何以修史？信口</summary>
+      
+    
+    
+    
+    <category term="诗歌" scheme="https://blog.tianscar.com/categories/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="胡言乱语" scheme="https://blog.tianscar.com/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客第三次重启</title>
+    <link href="https://blog.tianscar.com/2023/01/29/3rd-relaunch-the-blog/"/>
+    <id>https://blog.tianscar.com/2023/01/29/3rd-relaunch-the-blog/</id>
+    <published>2023-01-29T18:05:52.000Z</published>
+    <updated>2023-01-29T18:05:52.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这次打算好好经营了&lt;br&gt;更换版权许可为 &lt;a href=&quot;/LICENSE&quot;&gt;CC-BY-NC-SA-4.0&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的博客评论系统：Giscus！</title>
+    <link href="https://blog.tianscar.com/2022/10/26/replaced-gitalk-with-giscus/"/>
+    <id>https://blog.tianscar.com/2022/10/26/replaced-gitalk-with-giscus/</id>
+    <published>2022-10-26T08:23:18.000Z</published>
+    <updated>2022-10-26T08:23:18.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;使用 &lt;a href=&quot;https://giscus.app/&quot;&gt;Giscus&lt;/a&gt; 和 &lt;a href=&quot;https://github.com/next-theme/hexo-next-giscus&quot;&gt;这个NexT官方插件&lt;/a&gt; 换掉了老旧的 &lt;a href=&quot;htt</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="博客装修" scheme="https://blog.tianscar.com/tags/%E5%8D%9A%E5%AE%A2%E8%A3%85%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于碳酸天剑</title>
+    <link href="https://blog.tianscar.com/about/"/>
+    <id>https://blog.tianscar.com/about/</id>
+    <published>2022-05-12T14:20:33.000Z</published>
+    <updated>2022-05-12T14:20:33.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一句话总结&quot;&gt;&lt;a href=&quot;#一句话总结&quot; class=&quot;headerlink&quot; title=&quot;一句话总结&quot;&gt;&lt;/a&gt;一句话总结&lt;/h2&gt;&lt;p&gt;碳酸天剑是一个十足的蠢货，自称会十多门编程语言，但每次写业务代码都在摆烂。&lt;/p&gt;
+&lt;h2 id=&quot;碳酸笑话五则&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="碳酸天剑" scheme="https://blog.tianscar.com/tags/%E7%A2%B3%E9%85%B8%E5%A4%A9%E5%89%91/"/>
+    
+    <category term="碳酸笑话" scheme="https://blog.tianscar.com/tags/%E7%A2%B3%E9%85%B8%E7%AC%91%E8%AF%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客第二次重启</title>
+    <link href="https://blog.tianscar.com/2022/05/12/2nd-reload-the-blog/"/>
+    <id>https://blog.tianscar.com/2022/05/12/2nd-reload-the-blog/</id>
+    <published>2022-05-12T12:17:45.000Z</published>
+    <updated>2022-05-12T12:17:45.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客重启！本次仍然选用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; 框架和 &lt;a href=&quot;https://theme-next.js.org/&quot;&gt;NexT&lt;/a&gt; 主题搭建。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.tianscar.com/2022/02/22/hello-world/"/>
+    <id>https://blog.tianscar.com/2022/02/22/hello-world/</id>
+    <published>2022-02-22T14:22:22.000Z</published>
+    <updated>2022-02-22T14:22:22.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;！这是你最早的博文。查看&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;文档&lt;/a&gt;获取更多信息。如果你在使用 Hexo 的过程中遇到任何问题，你可以在&lt;a href=&quot;http</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>

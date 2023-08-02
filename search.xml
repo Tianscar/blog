@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>博客第二次重启</title>
+    <url>/2022/05/12/2nd-reload-the-blog/</url>
+    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客第三次重启</title>
+    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
+    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客第四次重启</title>
+    <url>/2023/07/24/4th-reload-the-blog/</url>
+    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于碳酸天剑</title>
+    <url>//about/</url>
+    <content><![CDATA[<h2 id="一句话总结"><a href="#一句话总结" class="headerlink" title="一句话总结"></a>一句话总结</h2><p>碳酸天剑是一个十足的蠢货，自称会十多门编程语言，但每次写业务代码都在摆烂。</p>
+<h2 id="碳酸笑话五则"><a href="#碳酸笑话五则" class="headerlink" title="碳酸笑话五则"></a>碳酸笑话五则</h2><h3 id="其一"><a href="#其一" class="headerlink" title="其一"></a>其一</h3><p>有一回，碳酸天剑、Dobando、JDSA_Ling 三人去应聘某公司，应聘过程中被要求在规定的时间内按需求写出合格的业务程序。<br>JDSA_Ling 没日没夜的赶工，头发都白了一半，最终在时间快到的时候交出了合格的业务程序，成功被录用。<br>Dobando 大量“参考”了前人的经验，用十分“科学”的方法完成了合格的业务程序，甚至还剩下一些时间用来做别的事——当然，他也被录用了。<br>碳酸天剑一开始完成的很“好”，然后写了不到一半就失去耐心，删库跑路了。</p>
+<h3 id="其二"><a href="#其二" class="headerlink" title="其二"></a>其二</h3><p>碳酸天剑混了半年 GitHub、StackOverflow、Linux 社区，然后被 SteveUbuntu 采访。<br>SteveUbuntu：你这段时间有做出什么上千 Star 的项目来吗？<br>碳酸天剑：没有，事实上，这段时间我做出的 Star 最多的项目连 10 个 Star 都没有。<br>SteveUbuntu：那你这段时间给 Linux 内核提交了多少回代码？<br>碳酸天剑：没有，完全没有，一回都没有。<br>SteveUbuntu：那你这段时间一定有好好提升编程水平咯？<br>碳酸天剑：没有，要说我这段时间有提升什么水平的话，那一定是摆烂水平。<br>SteveUbuntu：那你这段时间都在干什么？<br>碳酸天剑：C++ 是不好的，C 语言是好的，JS 是草的，Java 是没有前景的……<br>SteveUbuntu：……</p>
+<h3 id="其三"><a href="#其三" class="headerlink" title="其三"></a>其三</h3><p>碳酸天剑游学半年归来，说要用 C 语言做游戏引擎。<br>第一天：确定了引擎名，Prohonor 和 Daniel Calan 友情赞助了 Logo。<br>第二天上午：创了 GitHub 库并开始写代码。<br>第二天下午：永久停更并且没把代码 push 到 GitHub 上。</p>
+<h3 id="其四"><a href="#其四" class="headerlink" title="其四"></a>其四</h3><p>碳酸天剑制作了自己的 Linux 发行版，用了 Slackware Linux 的 codebase，Debian 和 Fedora 的安装器，Arch Linux 的包管理器和软件源，CentOS 的 Logo（简单的顺时针旋转了 90 度并加了滤镜）。<br>Prohonor：如何评价碳酸天剑应该被钉在 Linux 耻辱柱上的观点？<br>SteveUbuntu：那是耻辱柱的耻辱。</p>
+<h3 id="其五"><a href="#其五" class="headerlink" title="其五"></a>其五</h3><p>Prohonor：讲个 IT 界最短的笑话：碳酸天剑。<br>SteveUbuntu：你这不够短。讲个 IT 界最短的笑话：碳酸。</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>碳酸天剑</tag>
+        <tag>碳酸笑话</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/02/22/hello-world/</url>
+    <content><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>！这是你最早的博文。查看<a href="https://hexo.io/docs/">文档</a>获取更多信息。如果你在使用 Hexo 的过程中遇到任何问题，你可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>找到答案，或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上发布 issue。</p>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新的博文"><a href="#创建一篇新的博文" class="headerlink" title="创建一篇新的博文"></a>创建一篇新的博文</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;我的新博文&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>更多信息：<a href="https://hexo.io/docs/writing.html">写作</a></p>
+<h3 id="运行博客服务器"><a href="#运行博客服务器" class="headerlink" title="运行博客服务器"></a>运行博客服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>更多信息：<a href="https://hexo.io/docs/server.html">服务器</a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>更多信息：<a href="https://hexo.io/docs/generating.html">生成</a></p>
+<h3 id="部署到远程网站"><a href="#部署到远程网站" class="headerlink" title="部署到远程网站"></a>部署到远程网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>更多信息：<a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>唯心与唯物</title>
+    <url>/2023/07/29/idealism-and-materialism/</url>
+    <content><![CDATA[<h2 id="争论"><a href="#争论" class="headerlink" title="争论"></a>争论</h2><p>唯心与唯物的争论，时至今日都没有结束。<br>我当然不可能自以为是到认为自己能结束这个争论，但我要给出自己的看法。</p>
+<h3 id="对“物质”的补充定义"><a href="#对“物质”的补充定义" class="headerlink" title="对“物质”的补充定义"></a>对“物质”的补充定义</h3><p>唯物主义被提出来的时候，还没有量子物理，所以当时对“物”的定义，就是物质。<br>后来人类发现了物质以外的东西，例如能量。<br>所以我认为，如果不提出新的理论，那么是时候该补充“唯物主义”对“物质”的定义了。<br>当然，已经有人这么做了，不过这不是我的工作。</p>
+<h4 id="我的看法"><a href="#我的看法" class="headerlink" title="我的看法"></a>我的看法</h4><p>如果哲学家们选择在“唯物主义”的基础上不断扩充，这场争论最终胜出的一定会是唯物主义。<br>因为：如果不补充“物质”的定义，唯物主义已经被证伪了。而不断补充“物质”的定义，假设最终发现真的有“精神力”存在，也一样能被补充到这个定义中。<br>所以我认为，这个争论已经没什么价值了，因为只要涉及到补充定义，对其中任意一个进行特定程度上的特定补充后，二者的理论就不再互斥。</p>
+<h3 id="从量子纠缠出发"><a href="#从量子纠缠出发" class="headerlink" title="从量子纠缠出发"></a>从量子纠缠出发</h3><p>根据该理论，对于具有量子纠缠特性的量子系统，其中任意系统被测量之时，都会导致两个系统纠缠在一起的量子态坍缩为明确态。<br>读者可能没有足够的的量子物理知识，但对此有一个通俗解释：“薛定谔的猫”。</p>
+<h4 id="我的看法-1"><a href="#我的看法-1" class="headerlink" title="我的看法"></a>我的看法</h4><p>之所以量子物理中对微观事物部分有违常理的特性在经典物理几乎完全不存在，是因为对于宏观物体，总是有足够的“观察者”维持足够多的组成这些物体的微观粒子具有明确态。<br>当然“观察者”维持着宏观物体的明确态，这听起来有点“客观唯心主义”的味道了。当然这只是我的理解，并且不代表我支持现实世界是符合“客观唯心主义”的。</p>
+<h3 id="人类思维的限制"><a href="#人类思维的限制" class="headerlink" title="人类思维的限制"></a>人类思维的限制</h3><p>这应该是一个公认的事实：人类所认知的世界和真实世界并不是同一个东西。因为人类对世界的认知能力和理解能力都是有限的。</p>
+<h4 id="子非鱼，安知鱼之乐"><a href="#子非鱼，安知鱼之乐" class="headerlink" title="子非鱼，安知鱼之乐"></a>子非鱼，安知鱼之乐</h4><p>就拿最简单的视觉来讲，人眼能感知到的颜色和鱼眼能感知到的颜色是不一样的。所以对于可见的世界，人和鱼看到的就完全不一样。<br>那人看到的就是真实世界吗？那当然也不是。事实是：二者看到的都不是真实世界。</p>
+<h4 id="我的看法-2"><a href="#我的看法-2" class="headerlink" title="我的看法"></a>我的看法</h4><p>其他方面可以举的例子太多了。<br>由此可以得出一个结论：人类无法认知真实世界。人类所认知的，只是“人类认知中的世界”。<br>这从根本上否决了人类“从绝对客观的立场上看待一样事物”的可能：做到这点的前提是需要绝对了解这样事物。<br>那么既然如此，可以认定人类认知事物的过程和认知本身都是“唯心”的。<br>而真实世界到底是什么样，是否符合“唯物”或“唯心”的定义，目前还没人知道。</p>
+<h2 id="引申出的问题：物质重要还是精神重要"><a href="#引申出的问题：物质重要还是精神重要" class="headerlink" title="引申出的问题：物质重要还是精神重要"></a>引申出的问题：物质重要还是精神重要</h2><p>有时候唯心与唯物的争论会与“物质追求重要还是精神追求重要”混淆。实际上二者完全是两码事——<br>尽管唯物主义者可能会偏向认为“物质追求重要”，而唯心主义者可能会偏向认为“精神追求重要”。</p>
+<h3 id="我的看法-3"><a href="#我的看法-3" class="headerlink" title="我的看法"></a>我的看法</h3><p>我认为，对人类而言，当然是精神追求更重要一些。甚至可以这么说：物质追求只是手段，精神追求才是目的。<br>我想，如果一个人什么事都不做也能活下去并且感到精神富足，那么他&#x2F;她肯定不会去做什么事的。<br>当然，对绝大多数人而言，精神追求的基础一定是一定程度上的物质追求：一般而言，如果一个人每天超额工作、吃不饱饭、没地方住，他&#x2F;她肯定不会感到自己精神富足，而满足了这部分基础的物质追求后，就必须追求物质以外的东西了，否则精神上的贫瘠会击垮这个人。<br>对于停留在追求这部分基础物质阶段的多数普通人而言，可能难以理解我对这个问题的看法，但你可以看到：世界上多数钱对于他&#x2F;她只是一个数字的富豪，或者权势滔天的实权政治人物，都在追求物质以外的东西。</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>胡言乱语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的博客评论系统：Giscus！</title>
+    <url>/2022/10/26/replaced-gitalk-with-giscus/</url>
+    <content><![CDATA[<p>使用 <a href="https://giscus.app/">Giscus</a> 和 <a href="https://github.com/next-theme/hexo-next-giscus">这个NexT官方插件</a> 换掉了老旧的 <a href="https://gitalk.github.io/">Gitalk</a>。<br>Giscus 基于 GitHub Discussions，和基于 GitHub issues 的 Gitalk 相比，免去了手动一篇篇文章初始化的繁琐，也更易用，官方支持度更高～<br>本来就没评论，我干脆直接给原来的评论仓库删掉了……</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>博客装修</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>天剑战国赋</title>
+    <url>/2023/06/03/tiansword-zhanguo-fu/</url>
+    <content><![CDATA[<p>春秋一梦，二千二百；<br>梦醒时分，礼崩乐坏。<br>日有所思，夜有所梦，<br>忙有所欲，闲有所感。<br>苦痛缠身，作文勉之：</p>
+<p>何所见者？扪心自问：<br>何以国计？庙堂倾毁。<br>何以民生？五术以驭。<br>何以修文？楼台摧塌。<br>何以修史？信口雌黄。</p>
+<p>明君不现，皇帝暴虐。<br>清官无多，五蠹蛀国。<br>豪杰无道，鱼肉乡里。<br>民智蒙蔽，全无自知。<br>如此正道，天下无道。</p>
+<p>何所愿者？扪心自问：<br>所以国计？裂土封邦。<br>所以民生？关隘大开。<br>所以修文？汉唐归来。<br>所以修史？秉笔昭昭。</p>
+<p>暴虎冯河，吾虽不与；<br>战国乱世，无以为惧。<br>誓为天剑，尽斩民贼；<br>气吞九天，势撼五岳。<br>剑已出鞘，锋芒毕露！</p>
+]]></content>
+      <categories>
+        <category>诗歌</category>
+      </categories>
+      <tags>
+        <tag>胡言乱语</tag>
+      </tags>
+  </entry>
+</search>
