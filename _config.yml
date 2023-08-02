@@ -105,7 +105,7 @@ deploy:
   type: git
   repo: git@github.com:Tianscar/blog.git
   branch: gh-pages
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Site updated: {{ now('en-US', 'YYYY-MM-DD HH:mm:ss') }}"
 
 # SEO
 sitemap:
