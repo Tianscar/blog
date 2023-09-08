@@ -182,6 +182,68 @@
       </tags>
   </entry>
   <entry>
+    <title>应用单例检测器</title>
+    <url>/2023/09/07/single-instance-checker/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有时候我们开发一个应用程序，需要让该应用程序保证进程级别的单例，例如需要独占某些资源的情况。</p>
+<h3 id="线程互斥锁"><a href="#线程互斥锁" class="headerlink" title="线程互斥锁"></a>线程互斥锁</h3><p>无论是 Win32 还是 POSIX，都提供了线程之间的互斥锁（Mutex），可以用其让某些资源在同一时间只能被一个线程独占。</p>
+<h3 id="进程互斥锁"><a href="#进程互斥锁" class="headerlink" title="进程互斥锁"></a>进程互斥锁</h3><p>为了实现进程级别的单例，我们需要进程级别的互斥锁。</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我认为，一个合格的进程互斥锁应该符合如下几点：</p>
+<ol>
+<li>每一把锁都可以有唯一的标识符，并且所有进程都可以通过标识符获取锁。</li>
+<li>同一时间只能有一个进程持有锁，其他进程可以尝试持有同一把锁，并返回结果。</li>
+<li>进程退出时，锁会被自动释放，无论是正常退出还是异常退出。</li>
+<li>锁的完整性和唯一性在正常使用过程中几乎不可能因用户误操作而被破坏（例如内核态的资源）。</li>
+</ol>
+<p>以下是一些思路：（注：本文只提供思路，不提供具体代码示例，若要进一步了解，请读者自行查阅相关 API 资料）</p>
+<h3 id="Win32-互斥锁"><a href="#Win32-互斥锁" class="headerlink" title="Win32 互斥锁"></a>Win32 互斥锁</h3><p><code>&lt;synchapi.h&gt;</code><br>这是 Windows XP 起引入的 Win32 API，DLL 是 <code>Kernel32.dll</code>。<br>通过该 API 可以创建进程级别的命名互斥锁，符合 1、2、3、4。</p>
+<ol>
+<li>唯一标识符——互斥锁的名称。所有进程都可以通过 <code>CreateMutex</code> 传参名称试图创建同一把锁。</li>
+<li>通过 <code>CreateMutex</code> 可以尝试创建锁并立即返回结果。</li>
+<li>进程退出时会销毁持有的互斥锁。</li>
+<li>互斥锁是内核态资源，符合。</li>
+</ol>
+<h3 id="POSIX-信号量"><a href="#POSIX-信号量" class="headerlink" title="POSIX 信号量"></a>POSIX 信号量</h3><p><code>&lt;semaphore.h&gt;</code><br>这是 POSIX API 的一部分，绝大多数现代 POSIX 系统都支持。DLL 是 <code>librt</code>。<br>通过该 API 可以创建命名信号量（Semaphore），符合 1、2，不符合 3，不一定符合 4。</p>
+<ol>
+<li>唯一标识符——信号量的名称。所有进程都可以通过 <code>sem_open</code> 传参名称获取同一把锁。</li>
+<li>通过 <code>sem_trywait</code> 可以尝试获取锁并立即返回结果。</li>
+<li>进程退出时会调用 <code>sem_close</code> 而不是 <code>sem_unlink</code>，而 <code>sem_unlink</code> 才能移除命名信号量。命名信号量会一直在系统中保留，直到下一次手动调用 <code>sem_unlink</code> 或者重启系统。</li>
+<li>是否符合本条根据具体实现而定。例如：GNU&#x2F;Linux 使用共享内存实现，符合。</li>
+</ol>
+<h3 id="POSIX-文件锁"><a href="#POSIX-文件锁" class="headerlink" title="POSIX 文件锁"></a>POSIX 文件锁</h3><p><code>&lt;fcntl.h&gt;</code><br>这是 POSIX API 的一部分，POSIX 兼容的 C 运行时库基本都支持。<br>通过该 API 可以创建 POSIX 文件锁，符合 1、2、3，不一定符合 4。<br>需要注意的是，被 POSIX 文件锁锁住的文件仍可以被修改内容和删除。</p>
+<ol>
+<li>唯一标识符——文件。</li>
+<li>通过 <code>fcntl</code> 可以尝试锁住文件并立即返回结果。</li>
+<li>进程退出时 POSIX 文件锁会被销毁。</li>
+<li>是否符合取决于锁文件是哪个文件，被存放在什么位置，以及文件权限（由开发者来指定）。</li>
+</ol>
+<h3 id="FLOCK-文件锁"><a href="#FLOCK-文件锁" class="headerlink" title="FLOCK 文件锁"></a>FLOCK 文件锁</h3><p><code>&lt;sys/file.h&gt;</code><br>这是 BSD 风格的文件 API，但一些 *BSD 以外的系统（例如 GNU&#x2F;Linux）也部分支持。<br>通过该 API 可以创建 FLOCK 文件锁，符合 1、2、3，不一定符合 4。<br>需要注意的是，被 FLOCK 文件锁锁住的文件仍可以被修改内容和删除。</p>
+<ol>
+<li>唯一标识符——文件描述符。</li>
+<li>通过 <code>flock</code> 可以尝试锁住文件并立即返回结果。</li>
+<li>进程退出时 FLOCK 文件锁会被销毁。</li>
+<li>是否符合取决于锁文件是哪个文件，被存放在什么位置，以及文件权限（由开发者来指定）。</li>
+</ol>
+<h3 id="PIDFile"><a href="#PIDFile" class="headerlink" title="PIDFile"></a>PIDFile</h3><p>这是 UNIX 脚本常用的检测手段。<br>符合 1、2，不一定符合 3、4。</p>
+<ol>
+<li>对特定文件写入进程 PID，作为“锁”。</li>
+<li>通过读取文件和查询文件中的 PID 是否存在于 PID 列表可以尝试获取“锁”并立即返回结果。</li>
+<li>进程异常退出时文件可能未被销毁（取决于开发者是否做了异常退出相关的工作，以及异常退出的实际情况）。</li>
+<li>是否符合取决于锁文件是哪个文件，被存放在什么位置，以及文件权限（由开发者来指定）。</li>
+</ol>
+<h2 id="扩展阅读"><a href="#扩展阅读" class="headerlink" title="扩展阅读"></a>扩展阅读</h2><p>除此之外，还有使用 DBUS、占用端口、使用 UNIX Domain Socket 和使用共享内存等手段，在此不多赘述，有兴趣可以自行了解。</p>
+]]></content>
+      <categories>
+        <category>IT</category>
+      </categories>
+      <tags>
+        <tag>客户端</tag>
+        <tag>服务端</tag>
+        <tag>Win32</tag>
+        <tag>POSIX</tag>
+        <tag>BSD</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>天剑战国赋</title>
     <url>/2023/06/03/tiansword-zhanguo-fu/</url>
     <content><![CDATA[<p>春秋一梦，二千二百；<br>梦醒时分，礼崩乐坏。<br>日有所思，夜有所梦，<br>忙有所欲，闲有所感。<br>苦痛缠身，作文勉之：</p>
