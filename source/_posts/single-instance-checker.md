@@ -32,7 +32,7 @@ tags:
 
 ### Win32 互斥锁
 `<synchapi.h>`
-这是 Windows XP 起引入的 Win32 API，DLL 是 `Kernel32.dll`。
+这是 Windows XP 起引入的 Win32 API，动态库是 `Kernel32.dll`。
 通过该 API 可以创建进程级别的命名互斥锁，符合 1、2、3、4。
 
 1. 唯一标识符——互斥锁的名称。所有进程都可以通过 `CreateMutex` 传参名称试图创建同一把锁。
@@ -42,7 +42,7 @@ tags:
 
 ### POSIX 信号量
 `<semaphore.h>`
-这是 POSIX API 的一部分，绝大多数现代 POSIX 系统都支持。DLL 是 `librt`。
+这是 POSIX API 的一部分，绝大多数现代 POSIX 系统都支持。动态库是 `librt`。
 通过该 API 可以创建命名信号量（Semaphore），符合 1、2，不符合 3，不一定符合 4。
 
 1. 唯一标识符——信号量的名称。所有进程都可以通过 `sem_open` 传参名称获取同一把锁。
