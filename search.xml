@@ -195,14 +195,14 @@
 <li>锁的完整性和唯一性在正常使用过程中几乎不可能因用户误操作而被破坏（例如内核态的资源）。</li>
 </ol>
 <p>以下是一些思路：（注：本文只提供思路，不提供具体代码示例，若要进一步了解，请读者自行查阅相关 API 资料）</p>
-<h3 id="Win32-互斥锁"><a href="#Win32-互斥锁" class="headerlink" title="Win32 互斥锁"></a>Win32 互斥锁</h3><p><code>&lt;synchapi.h&gt;</code><br>这是 Windows XP 起引入的 Win32 API，DLL 是 <code>Kernel32.dll</code>。<br>通过该 API 可以创建进程级别的命名互斥锁，符合 1、2、3、4。</p>
+<h3 id="Win32-互斥锁"><a href="#Win32-互斥锁" class="headerlink" title="Win32 互斥锁"></a>Win32 互斥锁</h3><p><code>&lt;synchapi.h&gt;</code><br>这是 Windows XP 起引入的 Win32 API，动态库是 <code>Kernel32.dll</code>。<br>通过该 API 可以创建进程级别的命名互斥锁，符合 1、2、3、4。</p>
 <ol>
 <li>唯一标识符——互斥锁的名称。所有进程都可以通过 <code>CreateMutex</code> 传参名称试图创建同一把锁。</li>
 <li>通过 <code>CreateMutex</code> 可以尝试创建锁并立即返回结果。</li>
 <li>进程退出时会销毁持有的互斥锁。</li>
 <li>互斥锁是内核态资源，符合。</li>
 </ol>
-<h3 id="POSIX-信号量"><a href="#POSIX-信号量" class="headerlink" title="POSIX 信号量"></a>POSIX 信号量</h3><p><code>&lt;semaphore.h&gt;</code><br>这是 POSIX API 的一部分，绝大多数现代 POSIX 系统都支持。DLL 是 <code>librt</code>。<br>通过该 API 可以创建命名信号量（Semaphore），符合 1、2，不符合 3，不一定符合 4。</p>
+<h3 id="POSIX-信号量"><a href="#POSIX-信号量" class="headerlink" title="POSIX 信号量"></a>POSIX 信号量</h3><p><code>&lt;semaphore.h&gt;</code><br>这是 POSIX API 的一部分，绝大多数现代 POSIX 系统都支持。动态库是 <code>librt</code>。<br>通过该 API 可以创建命名信号量（Semaphore），符合 1、2，不符合 3，不一定符合 4。</p>
 <ol>
 <li>唯一标识符——信号量的名称。所有进程都可以通过 <code>sem_open</code> 传参名称获取同一把锁。</li>
 <li>通过 <code>sem_trywait</code> 可以尝试获取锁并立即返回结果。</li>
