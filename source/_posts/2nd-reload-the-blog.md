@@ -2,7 +2,7 @@
 title: 博客第二次重启
 date: 2022-05-12 20:17:45
 updated: 2022-05-12 20:17:45
-categories: 杂文
+categories: 通知
 tags: Hello World
 ---
 

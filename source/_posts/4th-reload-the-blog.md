@@ -2,7 +2,7 @@
 title: 博客第四次重启
 date: 2023-07-24 20:16:27
 updated: 2023-07-24 20:16:27
-categories: 杂文
+categories: 通知
 tags: Hello World
 ---
 

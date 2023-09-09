@@ -2,7 +2,7 @@
 title: 新的博客评论系统：Giscus！
 date: 2022-10-26 16:23:18
 updated: 2022-10-26 16:23:18
-category: 杂文
+category: 通知
 tags: 博客装修
 ---
 
