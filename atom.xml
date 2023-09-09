@@ -6,7 +6,7 @@
   <link href="https://blog.tianscar.com/atom.xml" rel="self"/>
   
   <link href="https://blog.tianscar.com/"/>
-  <updated>2023-09-07T16:43:51.000Z</updated>
+  <updated>2023-09-09T15:44:53.500Z</updated>
   <id>https://blog.tianscar.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>对 2023-09-09 缺更博文的声明</title>
+    <link href="https://blog.tianscar.com/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/"/>
+    <id>https://blog.tianscar.com/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/</id>
+    <published>2023-09-09T00:38:48.000Z</published>
+    <updated>2023-09-09T15:44:53.500Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博文本来已经写好，但文中有一些内容我觉得不够完善，直到发布前才反应过来。&lt;br&gt;今天没时间了，明天会完善并发布。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+    <category term="缺更博文声明" scheme="https://blog.tianscar.com/tags/%E7%BC%BA%E6%9B%B4%E5%8D%9A%E6%96%87%E5%A3%B0%E6%98%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>应用单例检测器</title>
@@ -52,7 +75,7 @@
     <link href="https://blog.tianscar.com/2023/09/06/blog-update-plan/"/>
     <id>https://blog.tianscar.com/2023/09/06/blog-update-plan/</id>
     <published>2023-09-06T19:37:03.000Z</published>
-    <updated>2023-09-06T19:37:03.000Z</updated>
+    <updated>2023-09-09T15:34:49.000Z</updated>
     
     
       
@@ -62,7 +85,7 @@
     
     
     
-    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="计划" scheme="https://blog.tianscar.com/tags/%E8%AE%A1%E5%88%92/"/>
@@ -96,7 +119,7 @@
     <link href="https://blog.tianscar.com/2023/07/29/idealism-and-materialism/"/>
     <id>https://blog.tianscar.com/2023/07/29/idealism-and-materialism/</id>
     <published>2023-07-29T07:05:32.000Z</published>
-    <updated>2023-08-02T13:54:10.048Z</updated>
+    <updated>2023-07-29T07:05:32.000Z</updated>
     
     
       
@@ -130,7 +153,7 @@
     
     
     
-    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
@@ -176,7 +199,7 @@
     
     
     
-    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
@@ -198,7 +221,7 @@
     
     
     
-    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="博客装修" scheme="https://blog.tianscar.com/tags/%E5%8D%9A%E5%AE%A2%E8%A3%85%E4%BF%AE/"/>
@@ -246,7 +269,7 @@
     
     
     
-    <category term="杂文" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="Hello World" scheme="https://blog.tianscar.com/tags/Hello-World/"/>
