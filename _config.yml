@@ -106,7 +106,6 @@ deploy:
   repo: git@github.com:Tianscar/blog.git
   branch: gh-pages
   message: "Site updated"
-  ignore_hidden: false # default is true
 
 # SEO
 sitemap:
