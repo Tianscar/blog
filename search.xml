@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>博客第三次重启</title>
-    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
-    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
+    <title>博客第二次重启</title>
+    <url>/2022/05/12/2nd-reload-the-blog/</url>
+    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
 ]]></content>
       <categories>
         <category>通知</category>
@@ -13,9 +13,9 @@
       </tags>
   </entry>
   <entry>
-    <title>博客第二次重启</title>
-    <url>/2022/05/12/2nd-reload-the-blog/</url>
-    <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
+    <title>博客第三次重启</title>
+    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
+    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
         <category>通知</category>
