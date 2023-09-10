@@ -11,4 +11,4 @@ cd public
 git init
 git add .
 git commit -m "Site updated: $(date "+%Y-%m-%d %H:%M:%S")"
-git push -u git@github.com:Tianscar/blog.git origin gh-pages --force
+git push -u git@github.com:Tianscar/blog.git HEAD:gh-pages --force
