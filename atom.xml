@@ -6,7 +6,7 @@
   <link href="https://blog.tianscar.com/atom.xml" rel="self"/>
   
   <link href="https://blog.tianscar.com/"/>
-  <updated>2023-09-09T18:50:43.000Z</updated>
+  <updated>2023-09-09T21:32:49.000Z</updated>
   <id>https://blog.tianscar.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>STICKY_NOTE</title>
+    <link href="https://blog.tianscar.com/2023/09/09/notes/"/>
+    <id>https://blog.tianscar.com/2023/09/09/notes/</id>
+    <published>2023-09-09T21:32:49.000Z</published>
+    <updated>2023-09-09T21:32:49.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;以下是你&lt;em&gt;能&lt;/em&gt;在这里找到的&lt;/th&gt;
+&lt;th&gt;以下是你&lt;em&gt;不能&lt;/em&gt;在这里找到的&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;不知所云的技术博文&lt;/td&gt;
+&lt;td&gt;充实易懂的技术科</summary>
+      
+    
+    
+    
+    <category term="杂项" scheme="https://blog.tianscar.com/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>认识你自己</title>
