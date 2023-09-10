@@ -106,6 +106,8 @@ deploy:
   repo: git@github.com:Tianscar/blog.git
   branch: gh-pages
   message: "Site updated"
+  ignore_hidden: false # default is true
+  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
 
 # SEO
 sitemap:
