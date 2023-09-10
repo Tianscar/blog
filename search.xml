@@ -13,9 +13,9 @@
       </tags>
   </entry>
   <entry>
-    <title>博客第四次重启</title>
-    <url>/2023/07/24/4th-reload-the-blog/</url>
-    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
+    <title>博客第三次重启</title>
+    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
+    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
         <category>通知</category>
@@ -25,9 +25,9 @@
       </tags>
   </entry>
   <entry>
-    <title>博客第三次重启</title>
-    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
-    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
+    <title>博客第四次重启</title>
+    <url>/2023/07/24/4th-reload-the-blog/</url>
+    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
 ]]></content>
       <categories>
         <category>通知</category>
@@ -89,7 +89,7 @@
 <h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
 
 <p>更多信息：<a href="https://hexo.io/docs/generating.html">生成</a></p>
-<h3 id="部署到远程网站"><a href="#部署到远程网站" class="headerlink" title="部署到远程网站"></a>部署到远程网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="部署到远程网站"><a href="#部署到远程网站" class="headerlink" title="部署到远程网站"></a>部署到远程网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>更多信息：<a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>
 ]]></content>
