@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>博客第三次重启</title>
-    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
-    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
-]]></content>
-      <categories>
-        <category>通知</category>
-      </categories>
-      <tags>
-        <tag>Hello World</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>博客第二次重启</title>
     <url>/2022/05/12/2nd-reload-the-blog/</url>
     <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
@@ -28,6 +16,18 @@
     <title>博客第四次重启</title>
     <url>/2023/07/24/4th-reload-the-blog/</url>
     <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客第三次重启</title>
+    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
+    <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
         <category>通知</category>
@@ -122,15 +122,31 @@
       </tags>
   </entry>
   <entry>
-    <title>新的博客评论系统：Giscus！</title>
-    <url>/2022/10/26/replaced-gitalk-with-giscus/</url>
-    <content><![CDATA[<p>使用 <a href="https://giscus.app/">Giscus</a> 和 <a href="https://github.com/next-theme/hexo-next-giscus">这个NexT官方插件</a> 换掉了老旧的 <a href="https://gitalk.github.io/">Gitalk</a>。<br>Giscus 基于 GitHub Discussions，和基于 GitHub issues 的 Gitalk 相比，免去了手动一篇篇文章初始化的繁琐，也更易用，官方支持度更高～<br>本来就没评论，我干脆直接给原来的评论仓库删掉了……</p>
+    <title>认识你自己</title>
+    <url>/2023/09/09/know-thyself/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>古希腊先贤有言：“认识你自己”。<br>本文是一篇政治杂文。希望本文能帮助读者在政治方面“认识你自己”。</p>
+<h2 id="阶层"><a href="#阶层" class="headerlink" title="阶层"></a>阶层</h2><p>我将人分为三大阶层：群众、精英、权贵。</p>
+<ul>
+<li>群众<br>总数占人类社会绝大多数的普通群众，知识水平与物质条件均十分有限，因此无法不受身边环境的影响。偶尔有一些人，通过运气和自身努力，能够跻身精英阶层，实现阶层跃迁。</li>
+<li>精英<br>人数相对群众阶层少得多而相对权贵阶层多得多，知识水平与物质条件均足以支持其不受身边环境的影响，是名副其实的“社会精英”和“国际公民”。与权贵不同，精英的社会阶层总是坐不稳的，运气不好或自身努力不足，都可能让其跌落回群众阶层。偶尔有极个别精英能够实现阶层跃迁，成为权贵。</li>
+</ul>
+<p>群众与精英的分界线在于“能否不受身边环境影响”。举两个反例：暴发户物质条件充足而知识水平不足，为生计苟且的部分民间知识分子正好相反，这两类人就不算精英。</p>
+<ul>
+<li>权贵<br>一言以概之，“掌握实权的贵族”，人数极少，很少发生阶层变动，地位与生俱来。权贵亦不受身边环境影响——事实上，权贵能轻易反过来塑造身边环境。尽管占据人类社会最优质的资源，但因为人类社会是个复杂系统，并且人的智商正态分布，权贵仍然不一定拥有精英的素质。然而权贵阶层一般不会因为素质低就发生阶层变动，因为可以随意号令精英阶层为其办事。</li>
+</ul>
+<p>不知道自己是权贵的权贵，我还没有见过。<br>目前人类社会的权贵，大致可以分为两类：一类通过直接控制社会来榨取利益，例如俄罗斯、中国、伊朗、沙特阿拉伯的权贵；一类通过资本运作来获取利益，例如美国、欧洲、日本、韩国的权贵。</p>
+<h2 id="阵营"><a href="#阵营" class="headerlink" title="阵营"></a>阵营</h2><h3 id="左右"><a href="#左右" class="headerlink" title="左右"></a>左右</h3><p>“左”是激进，“右”是保守。<br>例如：现在在经济方面，大环境是资本主义，因此支持社会主义的是“经济左翼”，支持资本主义的是“经济右翼”。</p>
+<h3 id="轴"><a href="#轴" class="headerlink" title="轴"></a>轴</h3><p>常见的轴有“经济”“政治”“文化”等。</p>
+<h3 id="光谱图"><a href="#光谱图" class="headerlink" title="光谱图"></a>光谱图</h3><p>根据轴的多少，可以绘制出不同的意识形态光谱图。对照在各个轴上的激进和保守程度，可以确定意识形态在光谱图上的位置，并由此给意识形态归类。需要注意的是，至少目前还没有光谱图能涵盖所有的意识形态。</p>
+<p><img src="/images/political_compass.svg" alt="Political Compass"><br>这是时下最流行的“纵轴政治，横轴经济，上政治威权、下政治自由、左经济激进、右经济保守”二维政治光谱图，能够涵盖当下的大多数意识形态。</p>
+<p>这张光谱图的极点参照物举例：<br>左上：共产主义<br>中上：极权主义<br>右上：法西斯主义<br>左中：工团主义<br>右中：经济反动主义<br>左下：无政府共产主义<br>中下：自由意志主义<br>右下：无政府资本主义</p>
+<p>在这张光谱图上：<br>并不是意识形态靠的越近，关系就越好，越远关系就越不好。两个相邻的意识形态也可能势如水火。<br>一般情况下，相对温和的意识形态都是可以共存的，不是非要争个你死我活，例如社会民主主义和新自由主义。<br>而相对极端的意识形态，只有利益能让它们和其他意识形态达成暂时的、随时可能破裂的合作。</p>
 ]]></content>
       <categories>
-        <category>通知</category>
+        <category>杂文</category>
       </categories>
       <tags>
-        <tag>博客装修</tag>
+        <tag>胡言乱语</tag>
       </tags>
   </entry>
   <entry>
@@ -180,6 +196,18 @@
       </categories>
       <tags>
         <tag>时政</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的博客评论系统：Giscus！</title>
+    <url>/2022/10/26/replaced-gitalk-with-giscus/</url>
+    <content><![CDATA[<p>使用 <a href="https://giscus.app/">Giscus</a> 和 <a href="https://github.com/next-theme/hexo-next-giscus">这个NexT官方插件</a> 换掉了老旧的 <a href="https://gitalk.github.io/">Gitalk</a>。<br>Giscus 基于 GitHub Discussions，和基于 GitHub issues 的 Gitalk 相比，免去了手动一篇篇文章初始化的繁琐，也更易用，官方支持度更高～<br>本来就没评论，我干脆直接给原来的评论仓库删掉了……</p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>博客装修</tag>
       </tags>
   </entry>
   <entry>
