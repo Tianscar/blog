@@ -36,7 +36,7 @@ hexo generate
 ### 部署到远程网站
 
 ``` bash
-$ hexo deploy
+hexo deploy
 ```
 
 更多信息：[部署](https://hexo.io/docs/one-command-deployment.html)
