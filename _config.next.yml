@@ -42,7 +42,7 @@ custom_file_path:
 scheme: Gemini
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 
 # ---------------------------------------------------------------
@@ -63,7 +63,7 @@ custom_logo: #/uploads/custom-logo.jpg
 # See: https://creativecommons.org/about/cclicenses/
 creative_commons:
   # Available values: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | cc-zero
-  license: by
+  license: by-nc-sa
   # Available values: big | small
   size: big
   sidebar: true
@@ -252,7 +252,7 @@ post_meta:
   item_text: true
   created_at: true
   updated_at: 
-    enable: true
+    enable: false
     another_day: true
   categories: true
 
@@ -260,7 +260,7 @@ post_meta:
 # Dependencies: https://github.com/next-theme/hexo-word-counter
 symbols_count_time:
   separated_meta: true
-  item_text_total: false
+  item_text_total: true
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: false
@@ -578,7 +578,7 @@ comments:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
-  lazyload: false
+  lazyload: true
   # Modify texts or order for any naves, here are some examples.
   nav:
     #disqus:
@@ -657,7 +657,7 @@ giscus:
    # Available values: 0 | 1
   emit_metadata: 1
   # Available values: light | dark | dark_high_contrast | transparent_dark | preferred-color-scheme
-  theme: light
+  theme: preferred-color-scheme
   # Available values: en | zh-CN
   lang: zh-CN
   # Available value: anonymous

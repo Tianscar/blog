@@ -7,4 +7,4 @@ tags: Hello World
 ---
 
 太阳升起，我已归来
-更换版权许可为 [CC-BY-4.0](/LICENSE)
+更换博客版权许可为 CC-BY-4.0

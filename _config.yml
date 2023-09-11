@@ -5,7 +5,7 @@
 # Site
 title: 碳酸天剑的博客
 subtitle: '#include "tianscar/blog.h"'
-description: '永远十八岁！'
+description: '永远十八岁'
 keywords: chinese, blog
 author: Karstian Lee
 language: zh-CN
@@ -45,7 +45,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
