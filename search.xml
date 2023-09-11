@@ -13,6 +13,18 @@
       </tags>
   </entry>
   <entry>
+    <title>博客第四次重启</title>
+    <url>/2023/07/24/4th-reload-the-blog/</url>
+    <content><![CDATA[<p>太阳升起，我已归来<br>更换博客版权许可为 CC-BY-4.0</p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客第三次重启</title>
     <url>/2023/01/29/3rd-relaunch-the-blog/</url>
     <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
@@ -25,15 +37,21 @@
       </tags>
   </entry>
   <entry>
-    <title>博客第四次重启</title>
-    <url>/2023/07/24/4th-reload-the-blog/</url>
-    <content><![CDATA[<p>太阳升起，我已归来<br>更换版权许可为 <a href="/LICENSE">CC-BY-4.0</a></p>
+    <title>一个将博客部署到 GitHub Pages 遇到的问题</title>
+    <url>/2023/09/10/a-problem-while-deploying-blog-to-github-pages/</url>
+    <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>GitHub Pages 如果定为 <code>gh-pages</code> 分支，有默认对 Jekyll 博客作出的配置。<br>因此我的 Hexo 博客的部分功能在本地运行没问题，而部署到 GitHub Pages 出现了问题（例如搜索框）。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>只要 <code>gh-pages</code> 分支的根目录有名为 <code>.nojekyll</code> 的文件，就不会应用那些可能导致问题的配置。<br>首先，在 <code>source</code> 目录中创建这个文件。</p>
+<h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>Hexo 生成博客网站的时候默认是不包含隐藏文件（*NIX上是 <code>.</code> 开头的文件）的。<br>在 <code>_config.yml</code> 配置</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">include:</span> <span class="string">.nojekyll</span></span><br></pre></td></tr></table></figure>
+<p>即可包含 <code>.nojekyll</code>。</p>
+<h3 id="hexo-deployer-git"><a href="#hexo-deployer-git" class="headerlink" title="hexo-deployer-git"></a>hexo-deployer-git</h3><p>部署过程默认是不包含隐藏文件的。<br>在 <code>_config.yml</code> 配置</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">ignore_hidden:</span></span><br><span class="line">    <span class="attr">public:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>通知</category>
       </categories>
       <tags>
-        <tag>Hello World</tag>
+        <tag>博客装修</tag>
       </tags>
   </entry>
   <entry>
@@ -67,6 +85,18 @@
       <tags>
         <tag>碳酸天剑</tag>
         <tag>碳酸笑话</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客版权许可变更</title>
+    <url>/2023/09/10/blog-license-changed/</url>
+    <content><![CDATA[<p>更换博客版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
       </tags>
   </entry>
   <entry>
@@ -165,7 +195,7 @@
       </tags>
   </entry>
   <entry>
-    <title>STICKY_NOTE</title>
+    <title>注意事项！</title>
     <url>/2023/09/09/notes/</url>
     <content><![CDATA[<table>
 <thead>
@@ -236,7 +266,7 @@
 <h2 id="仿古诗一首"><a href="#仿古诗一首" class="headerlink" title="仿古诗一首"></a>仿古诗一首</h2><p>转载，该诗版权属于原作者 Data-红</p>
 <p>诗经·文管</p>
 <p>农村反反，城市闹闹，经济还生。<br>国朝君令，网络管管，网络半毁。<br>农村吵吵，城市小闹，经济将落。<br>国朝君令，网络管管，网络神朽。<br>农村吵吵，城市互反，经济已崩。<br>国朝君令，网络大管，网络近毁。<br>国君朝臣，寻事理由，诈诈骗骗。<br>是真是假，万民有眼。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>《1984》正在中国成为现实。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>《1984》正在中国成为现实。</p>
 ]]></content>
       <categories>
         <category>杂文</category>
