@@ -100,17 +100,29 @@
       </tags>
   </entry>
   <entry>
+    <title>博客更新计划变更 2023-09-15</title>
+    <url>/2023/09/14/blog-update-plan-changed-2023-09-15/</url>
+    <content><![CDATA[<p>原来的<a href="/2023/09/06/blog-update-plan/">博客更新计划</a>变更，减少了每周更新博文数，并且不强制执行。<br>身体、时间精力的原因都有吧，但主要是“灵感不常有”。</p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客更新计划</title>
     <url>/2023/09/06/blog-update-plan/</url>
     <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>连续生病已逾两月，身体仍没有好转的迹象。<br>痛定思痛，深感生活习惯对人影响之深。<br>我从不是一个喜欢列计划的人，因为觉得计划总是赶不上变化。<br>同样因为缺少计划，我的生活也毫无章法。因此这次，一般人可能一个月就能恢复的身体，我至今无好转。<br>为了能更快从病中恢复，并打理好自己的生活、直至重拾事业，我必须改变自己。<br>就从更新博客开始吧。</p>
 <p>列计划如下，昭告本博客所有读者。<br>无论到底有多少读者，还是一个都没有，至少这样能让我把计划当回事。</p>
 <h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ul>
-<li>每天至少更新一篇博文。</li>
-<li>原则上每周至少更新三篇 1000 字以上的博文。</li>
-<li>原则上每月至少更新一篇时政相关的博文。</li>
-<li>原则上每周至少更新一篇编程相关的博文。</li>
-<li>不可博文代偿（例如：前一天写了两篇博文，所以后一天不写，上周写了两篇编程相关的博文，所以这周不写）</li>
-<li>缺更博文必须作解释（解释用博文不计入更新数），并且缺更博文必须及时补上（原则上一周内）</li>
+<li>计划非强制执行，仅供个人参考。</li>
+<li>每周至少更新两篇博文。</li>
+<li>每周至少更新一篇编程相关的博文。</li>
+<li>每月至少更新一篇时政相关的博文。</li>
+<li>不可博文代偿（例如：前一天写了两篇博文，所以后一天不写，上周写了两篇编程相关的博文，所以这周不写）。</li>
+<li>缺更博文一周内补上。</li>
 </ul>
 <h2 id="日期"><a href="#日期" class="headerlink" title="日期"></a>日期</h2><p>该计划从 2023-09-08 00:00:00 (GMT+08:00) 生效。</p>
 ]]></content>
@@ -315,18 +327,6 @@
         <tag>Win32</tag>
         <tag>POSIX</tag>
         <tag>BSD</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>对 2023-09-09 缺更博文的声明</title>
-    <url>/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/</url>
-    <content><![CDATA[<p>博文本来已经写好，但文中有一些内容我觉得不够完善，直到发布前才反应过来。<br>今天没时间了，明天会完善并发布。</p>
-]]></content>
-      <categories>
-        <category>通知</category>
-      </categories>
-      <tags>
-        <tag>缺更博文声明</tag>
       </tags>
   </entry>
   <entry>

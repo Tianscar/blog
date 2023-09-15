@@ -1,10 +1,10 @@
+https://blog.tianscar.com/2023/09/14/blog-update-plan-changed-2023-09-15/
+https://blog.tianscar.com/2023/09/06/blog-update-plan/
 https://blog.tianscar.com/2023/09/10/blog-license-changed/
 https://blog.tianscar.com/2023/09/10/a-problem-while-deploying-blog-to-github-pages/
 https://blog.tianscar.com/2023/09/09/about-morality/
 https://blog.tianscar.com/2023/09/09/welcome/
 https://blog.tianscar.com/2023/09/09/know-thyself/
-https://blog.tianscar.com/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/
-https://blog.tianscar.com/2023/09/06/blog-update-plan/
 https://blog.tianscar.com/2023/09/07/single-instance-checker/
 https://blog.tianscar.com/2023/08/10/personal-interpretation-for-the-miit-s-app-beian-notice/
 https://blog.tianscar.com/2023/07/29/idealism-and-materialism/
@@ -31,7 +31,6 @@ https://blog.tianscar.com/tags/%E6%9C%8D%E5%8A%A1%E7%AB%AF/
 https://blog.tianscar.com/tags/Win32/
 https://blog.tianscar.com/tags/POSIX/
 https://blog.tianscar.com/tags/BSD/
-https://blog.tianscar.com/tags/%E7%BC%BA%E6%9B%B4%E5%8D%9A%E6%96%87%E5%A3%B0%E6%98%8E/
 https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/
 https://blog.tianscar.com/categories/%E6%9D%82%E6%96%87/
 https://blog.tianscar.com/categories/IT/

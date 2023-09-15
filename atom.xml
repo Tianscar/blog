@@ -6,7 +6,7 @@
   <link href="https://blog.tianscar.com/atom.xml" rel="self"/>
   
   <link href="https://blog.tianscar.com/"/>
-  <updated>2023-09-10T17:05:54.000Z</updated>
+  <updated>2023-09-14T13:33:08.000Z</updated>
   <id>https://blog.tianscar.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客更新计划变更 2023-09-15</title>
+    <link href="https://blog.tianscar.com/2023/09/14/blog-update-plan-changed-2023-09-15/"/>
+    <id>https://blog.tianscar.com/2023/09/14/blog-update-plan-changed-2023-09-15/</id>
+    <published>2023-09-14T13:33:08.000Z</published>
+    <updated>2023-09-14T13:33:08.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;原来的&lt;a href=&quot;/2023/09/06/blog-update-plan/&quot;&gt;博客更新计划&lt;/a&gt;变更，减少了每周更新博文数，并且不强制执行。&lt;br&gt;身体、时间精力的原因都有吧，但主要是“灵感不常有”。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+    <category term="计划" scheme="https://blog.tianscar.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>博客版权许可变更</title>
@@ -137,29 +160,6 @@
   </entry>
   
   <entry>
-    <title>对 2023-09-09 缺更博文的声明</title>
-    <link href="https://blog.tianscar.com/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/"/>
-    <id>https://blog.tianscar.com/2023/09/08/statement-of-why-no-blog-post-on-2023-09-09/</id>
-    <published>2023-09-09T00:38:48.000Z</published>
-    <updated>2023-09-09T15:44:53.500Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;博文本来已经写好，但文中有一些内容我觉得不够完善，直到发布前才反应过来。&lt;br&gt;今天没时间了，明天会完善并发布。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="通知" scheme="https://blog.tianscar.com/categories/%E9%80%9A%E7%9F%A5/"/>
-    
-    
-    <category term="缺更博文声明" scheme="https://blog.tianscar.com/tags/%E7%BC%BA%E6%9B%B4%E5%8D%9A%E6%96%87%E5%A3%B0%E6%98%8E/"/>
-    
-  </entry>
-  
-  <entry>
     <title>应用单例检测器</title>
     <link href="https://blog.tianscar.com/2023/09/07/single-instance-checker/"/>
     <id>https://blog.tianscar.com/2023/09/07/single-instance-checker/</id>
@@ -195,7 +195,7 @@
     <link href="https://blog.tianscar.com/2023/09/06/blog-update-plan/"/>
     <id>https://blog.tianscar.com/2023/09/06/blog-update-plan/</id>
     <published>2023-09-06T19:37:03.000Z</published>
-    <updated>2023-09-09T15:34:49.000Z</updated>
+    <updated>2023-09-14T13:33:08.000Z</updated>
     
     
       
