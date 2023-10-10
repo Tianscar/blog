@@ -9,7 +9,7 @@ description: '永远十八岁'
 keywords: chinese, blog
 author: Karstian Lee
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: 'America/Los_Angeles'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
