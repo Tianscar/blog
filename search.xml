@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>博客第三次重启</title>
-    <url>/2023/01/29/3rd-relaunch-the-blog/</url>
+    <url>/2023/01/30/3rd-relaunch-the-blog/</url>
     <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
@@ -38,7 +38,7 @@
   </entry>
   <entry>
     <title>一个将博客部署到 GitHub Pages 遇到的问题</title>
-    <url>/2023/09/10/a-problem-while-deploying-blog-to-github-pages/</url>
+    <url>/2023/09/11/a-problem-while-deploying-blog-to-github-pages/</url>
     <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>GitHub Pages 如果定为 <code>gh-pages</code> 分支，有默认对 Jekyll 博客作出的配置。<br>因此我的 Hexo 博客的部分功能在本地运行没问题，而部署到 GitHub Pages 出现了问题（例如搜索框）。</p>
 <h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>只要 <code>gh-pages</code> 分支的根目录有名为 <code>.nojekyll</code> 的文件，就不会应用那些可能导致问题的配置。<br>首先，在 <code>source</code> 目录中创建这个文件。</p>
 <h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>Hexo 生成博客网站的时候默认是不包含隐藏文件（*NIX上是 <code>.</code> 开头的文件）的。<br>在 <code>_config.yml</code> 配置</p>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>关于道德</title>
-    <url>/2023/09/09/about-morality/</url>
+    <url>/2023/09/10/about-morality/</url>
     <content><![CDATA[<p>道德，是人类永恒的话题之一。<br>甚至，“人性本善”还是“人性本恶”也能看作是古老的道德相关的争论：“人生来是有道德的，还是无道德的？”</p>
 <p>许多左翼人士总是默认“无产阶级是有道德的，资产阶级是无道德的”，而许多右翼正好相反。<br>事实是：无产阶级并不总是有道德，资产阶级也并不总是无道德。这两种基于阶级的“默认”都是走入误区。</p>
 <p>我个人认为，道德受个人意志、身边环境和社会分工（主要是职业）三大因素影响，跟阶级没有绝对的关系（我个人认为，阶级是社会分工的外在体现，是现象而不是本质。当然，我对阶级的具体观点及论证不在本文要讲的内容的范围内），但就规律而言，往往阶级越高，社会分工对道德的影响越大。<br>对于群众而言，道德首先受个人意志和身边环境影响，其次社会分工；而精英和权贵不受身边环境影响，因此只剩个人意志和社会分工。<br>对于多数群众而言，身边环境对道德的影响大于个人意志，少数相反。并且个人意志也不是恒定的，因此二者的影响优先级可能因此变动，但个人意志的变化相比身边环境要难上非常多（我个人认为，一般要重大事件，例如阶级变动才会导致变化）。<br>精英因为并非生来就是精英，成为精英前受到的身边环境对道德的影响可能会仍然残留，而权贵却几乎不可能有因为某些变动失去权贵身份的经历，所以对于绝大多数权贵而言，身边环境对道德的影响几乎为零。<br>一般而言，阶级越高的社会分工会对人的道德产生越大的负面影响。所以几乎看不到有道德的权贵，甚至有道德的精英也是少数。许多左翼人士大抵看到了这个，但却忽视了阶级低的群众也会受身边环境和个人意志对道德的负面影响；而许多右翼人士则往往会无限拔高身边环境对道德的影响，认为阶级高的人往往有着良好的社会环境，所以往往是有道德的，这也一样忽视了社会分工对人道德产生的负面影响，以及精英和权贵压根不受身边环境影响的事实。</p>
@@ -89,7 +89,7 @@
   </entry>
   <entry>
     <title>博客版权许可变更</title>
-    <url>/2023/09/10/blog-license-changed/</url>
+    <url>/2023/09/11/blog-license-changed/</url>
     <content><![CDATA[<p>更换博客版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
@@ -113,7 +113,7 @@
   </entry>
   <entry>
     <title>博客更新计划</title>
-    <url>/2023/09/06/blog-update-plan/</url>
+    <url>/2023/09/07/blog-update-plan/</url>
     <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>连续生病已逾两月，身体仍没有好转的迹象。<br>痛定思痛，深感生活习惯对人影响之深。<br>我从不是一个喜欢列计划的人，因为觉得计划总是赶不上变化。<br>同样因为缺少计划，我的生活也毫无章法。因此这次，一般人可能一个月就能恢复的身体，我至今无好转。<br>为了能更快从病中恢复，并打理好自己的生活、直至重拾事业，我必须改变自己。<br>就从更新博客开始吧。</p>
 <p>列计划如下，昭告本博客所有读者。<br>无论到底有多少读者，还是一个都没有，至少这样能让我把计划当回事。</p>
 <h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ul>
@@ -135,7 +135,7 @@
   </entry>
   <entry>
     <title>旗帜与徽记</title>
-    <url>/2023/06/03/flag-and-emblems/</url>
+    <url>/2023/06/04/flag-and-emblems/</url>
     <content><![CDATA[<p>虚构国家“United Provinces of China&#x2F;UPC&#x2F;中华联省共和国”</p>
 <p><img src="/images/flag-of-5-rivers.svg" alt="Flag of 5 Rivers"><br>国旗“五河旗”<br>五河，即：海河、黄河、淮河、长江、珠江<br><img src="/images/emblem-of-flower.svg" alt="Emblem of Flower"><br>国徽“花”</p>
 <p>虚构政党“中国宪政党”</p>
@@ -195,7 +195,7 @@
   </entry>
   <entry>
     <title>认识你自己</title>
-    <url>/2023/09/09/know-thyself/</url>
+    <url>/2023/09/10/know-thyself/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>古希腊先贤有言：“认识你自己”。<br>本文是一篇政治杂文。希望本文能帮助读者在政治方面“认识你自己”。</p>
 <h2 id="阶层"><a href="#阶层" class="headerlink" title="阶层"></a>阶层</h2><p>我将人分为三大阶层：群众、精英、权贵。</p>
 <ul>
@@ -223,7 +223,7 @@
   </entry>
   <entry>
     <title>对《工业和信息化部关于开展移动互联网应用程序备案工作的通知》的个人解读</title>
-    <url>/2023/08/10/personal-interpretation-for-the-miit-s-app-beian-notice/</url>
+    <url>/2023/08/11/personal-interpretation-for-the-miit-s-app-beian-notice/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如果你不知道发生了什么，请看该<a href="https://web.archive.org/web/20230811181740/https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2023/art_920db564162e4312916a01bed6540ad8.html">互联网时光机存档</a>。</p>
 <p>或者你可以看我制作的<a href="/plain/%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E9%83%A8%E5%85%B3%E4%BA%8E%E5%BC%80%E5%B1%95%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A4%87%E6%A1%88%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5.txt">原文 txt 格式全文摘录</a>。</p>
 <p>《工业和信息化部关于开展移动互联网应用程序备案工作的通知》下文称《通知》。</p>
@@ -284,7 +284,7 @@
   </entry>
   <entry>
     <title>应用单例检测器</title>
-    <url>/2023/09/07/single-instance-checker/</url>
+    <url>/2023/09/08/single-instance-checker/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有时候我们开发一个应用程序，需要让该应用程序保证进程级别的单例，例如需要独占某些资源的情况。</p>
 <h3 id="线程互斥锁"><a href="#线程互斥锁" class="headerlink" title="线程互斥锁"></a>线程互斥锁</h3><p>无论是 Win32 还是 POSIX，都提供了线程之间的互斥锁（Mutex），可以用其让某些资源在同一时间只能被一个线程独占。</p>
 <h3 id="进程互斥锁"><a href="#进程互斥锁" class="headerlink" title="进程互斥锁"></a>进程互斥锁</h3><p>为了实现进程级别的单例，我们需要进程级别的互斥锁。</p>
@@ -346,7 +346,7 @@
   </entry>
   <entry>
     <title>天剑战国赋</title>
-    <url>/2023/06/03/tiansword-zhanguo-fu/</url>
+    <url>/2023/06/04/tiansword-zhanguo-fu/</url>
     <content><![CDATA[<p>春秋一梦，二千二百；<br>梦醒时分，礼崩乐坏。<br>日有所思，夜有所梦，<br>忙有所欲，闲有所感。<br>苦痛缠身，作文勉之：</p>
 <p>何所见者？扪心自问：<br>何以国计？庙堂倾毁。<br>何以民生？五术以驭。<br>何以修文？楼台摧塌。<br>何以修史？信口雌黄。</p>
 <p>明君不现，皇帝暴虐。<br>清官无多，五蠹蛀国。<br>豪杰无道，鱼肉乡里。<br>民智蒙蔽，全无自知。<br>如此正道，天下无道。</p>
@@ -362,7 +362,7 @@
   </entry>
   <entry>
     <title>Welcome!</title>
-    <url>/2023/09/09/welcome/</url>
+    <url>/2023/09/10/welcome/</url>
     <content><![CDATA[<table>
 <thead>
 <tr>
