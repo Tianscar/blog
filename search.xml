@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>博客第二次重启</title>
-    <url>/2022/05/12/2nd-reload-the-blog/</url>
+    <url>/2022/05/13/2nd-reload-the-blog/</url>
     <content><![CDATA[<p>博客重启！本次仍然选用 <a href="https://hexo.io/">Hexo</a> 框架和 <a href="https://theme-next.js.org/">NexT</a> 主题搭建。</p>
 ]]></content>
       <categories>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>博客第三次重启</title>
-    <url>/2023/01/30/3rd-relaunch-the-blog/</url>
+    <url>/2023/01/30/3rd-reload-the-blog/</url>
     <content><![CDATA[<p>这次打算好好经营了<br>更换版权许可为 <a href="/LICENSE">CC-BY-NC-SA-4.0</a></p>
 ]]></content>
       <categories>
@@ -26,7 +26,7 @@
   </entry>
   <entry>
     <title>博客第四次重启</title>
-    <url>/2023/07/24/4th-reload-the-blog/</url>
+    <url>/2023/07/25/4th-reload-the-blog/</url>
     <content><![CDATA[<p>太阳升起，我已归来<br>更换博客版权许可为 CC-BY-4.0</p>
 ]]></content>
       <categories>
@@ -100,8 +100,20 @@
       </tags>
   </entry>
   <entry>
+    <title>博客停止更新 2023-12-20</title>
+    <url>/2023/12/21/blog-update-paused-2023-12-21/</url>
+    <content><![CDATA[<p>从 2023-12-21（GMT+08:00）起，博客无限期停止更新。<br>上次说恢复更新后，因为某些原因，一次也没更新过，实在对不起我的读者们（如果有的话）。<br>身体又垮了，从今往后我不会再轻易说“恢复更新”这样的事了……<br>除非我未来某天能够确保我的身体状况好到足以保证我维持长期更新博客……</p>
+]]></content>
+      <categories>
+        <category>通知</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客更新计划变更 2023-09-15</title>
-    <url>/2023/09/14/blog-update-plan-changed-2023-09-15/</url>
+    <url>/2023/09/15/blog-update-plan-changed-2023-09-15/</url>
     <content><![CDATA[<p>原来的<a href="/2023/09/06/blog-update-plan/">博客更新计划</a>变更，减少了每周更新博文数，并且不强制执行。<br>身体、时间精力的原因都有吧，但主要是“灵感不常有”。</p>
 ]]></content>
       <categories>
@@ -162,7 +174,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2022/02/22/hello-world/</url>
+    <url>/2022/02/23/hello-world/</url>
     <content><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>！这是你最早的博文。查看<a href="https://hexo.io/docs/">文档</a>获取更多信息。如果你在使用 Hexo 的过程中遇到任何问题，你可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>找到答案，或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上发布 issue。</p>
 <h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新的博文"><a href="#创建一篇新的博文" class="headerlink" title="创建一篇新的博文"></a>创建一篇新的博文</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;我的新博文&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -186,7 +198,7 @@
   </entry>
   <entry>
     <title>唯心与唯物</title>
-    <url>/2023/07/29/idealism-and-materialism/</url>
+    <url>/2023/07/30/idealism-and-materialism/</url>
     <content><![CDATA[<h2 id="争论"><a href="#争论" class="headerlink" title="争论"></a>争论</h2><p>唯心与唯物的争论，时至今日都没有结束。<br>我当然不可能自以为是到认为自己能结束这个争论，但我要给出自己的看法。</p>
 <h3 id="对“物质”的补充定义"><a href="#对“物质”的补充定义" class="headerlink" title="对“物质”的补充定义"></a>对“物质”的补充定义</h3><p>唯物主义被提出来的时候，还没有量子物理，所以当时对“物”的定义，就是物质。<br>后来人类发现了物质以外的东西，例如能量。<br>所以我认为，如果不提出新的理论，那么是时候该补充“唯物主义”对“物质”的定义了。<br>当然，已经有人这么做了，不过这不是我的工作。</p>
 <h4 id="我的看法"><a href="#我的看法" class="headerlink" title="我的看法"></a>我的看法</h4><p>如果哲学家们选择在“唯物主义”的基础上不断扩充，这场争论最终胜出的一定会是唯物主义。<br>因为：如果不补充“物质”的定义，唯物主义已经被证伪了。而不断补充“物质”的定义，假设最终发现真的有“精神力”存在，也一样能被补充到这个定义中。<br>所以我认为，这个争论已经没什么价值了，因为只要涉及到补充定义，对其中任意一个进行特定程度上的特定补充后，二者的理论就不再互斥。</p>
@@ -235,7 +247,7 @@
   </entry>
   <entry>
     <title>对《工业和信息化部关于开展移动互联网应用程序备案工作的通知》的个人解读</title>
-    <url>/2023/08/11/personal-interpretation-for-the-miit-s-app-beian-notice/</url>
+    <url>/2023/08/12/personal-interpretation-for-the-miit-s-app-beian-notice/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如果你不知道发生了什么，请看该<a href="https://web.archive.org/web/20230811181740/https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2023/art_920db564162e4312916a01bed6540ad8.html">互联网时光机存档</a>。</p>
 <p>或者你可以看我制作的<a href="/plain/%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E9%83%A8%E5%85%B3%E4%BA%8E%E5%BC%80%E5%B1%95%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A4%87%E6%A1%88%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5.txt">原文 txt 格式全文摘录</a>。</p>
 <p>《工业和信息化部关于开展移动互联网应用程序备案工作的通知》下文称《通知》。</p>
@@ -284,7 +296,7 @@
   </entry>
   <entry>
     <title>新的博客评论系统：Giscus！</title>
-    <url>/2022/10/26/replaced-gitalk-with-giscus/</url>
+    <url>/2022/10/27/replaced-gitalk-with-giscus/</url>
     <content><![CDATA[<p>使用 <a href="https://giscus.app/">Giscus</a> 和 <a href="https://github.com/next-theme/hexo-next-giscus">这个NexT官方插件</a> 换掉了老旧的 <a href="https://gitalk.github.io/">Gitalk</a>。<br>Giscus 基于 GitHub Discussions，和基于 GitHub issues 的 Gitalk 相比，免去了手动一篇篇文章初始化的繁琐，也更易用，官方支持度更高～<br>本来就没评论，我干脆直接给原来的评论仓库删掉了……</p>
 ]]></content>
       <categories>
