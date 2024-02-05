@@ -1,7 +1,8 @@
+https://blog.tianscar.com/2024/02/06/national-character-of-average-chinese/
+https://blog.tianscar.com/2024/02/05/rip-kuomintang/
 https://blog.tianscar.com/2024/01/20/postmodern-society-and-4d-political-compass/
 https://blog.tianscar.com/2023/12/21/blog-update-paused-2023-12-21/
 https://blog.tianscar.com/2023/10/29/blog-update-resumed-2023-10-29/
-https://blog.tianscar.com/2023/06/04/flag-and-emblems/
 https://blog.tianscar.com/2023/09/15/blog-update-plan-changed-2023-09-15/
 https://blog.tianscar.com/2023/09/07/blog-update-plan/
 https://blog.tianscar.com/2023/09/11/blog-license-changed/
@@ -16,6 +17,7 @@ https://blog.tianscar.com/2023/07/25/4th-reload-the-blog/
 https://blog.tianscar.com/categories/index.html
 https://blog.tianscar.com/tags/index.html
 https://blog.tianscar.com/2023/06/04/tiansword-zhanguo-fu/
+https://blog.tianscar.com/2023/06/04/flag-and-emblems/
 https://blog.tianscar.com/2023/01/30/3rd-reload-the-blog/
 https://blog.tianscar.com/2022/10/27/replaced-gitalk-with-giscus/
 https://blog.tianscar.com/404.html
